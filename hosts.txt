@@ -1,0 +1,3 @@
+# [xiaomi eu]
+127.0.0.1 adservice.google.com.ph
+127.0.0.1 data.mistat.intl.xiaomi.com
